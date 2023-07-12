@@ -1,0 +1,1 @@
+Input how many scores you want to enter and then input in the scores. The scores will be stored in a text file and can be read using the score reader.
